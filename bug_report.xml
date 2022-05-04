@@ -1,1 +1,18 @@
-
+<xml>
+  <Bug Name> Application crashes upon clicking the SAVE button while creating a new user </Bug Name>
+  <Bug ID> 1 </Bug ID>
+  <Area Path> USERS menu -> New Users </Area Path>
+  <Build Number> Version Number 5.0.1 </Build Number> 
+  <Severity> High </Severity>
+  <Priority> High </Priority>
+  <Assigned to> Developer </Assigned to>
+  <Reported By> Rodionova Juliya </Reported By>
+  <Reported On> 03.05.2022 </Reported On>
+  <Reason> Defect </Reason>
+  <Status> New </Status>
+  <Environment> Windows 2003/SQL Server 2005 </Environment>
+  <Description> Application crashes upon clicking the SAVE button while creating a new the user, hence unable to create a new user in the application </Description>
+  <Steps to Reproduce> 1. Login into the Application </Steps to Reproduce>
+  <Expected Result> On clicking the SAVE button, you should be prompted to a successful message “New User has been created successfully </Expected Result>
+  
+    </xml>
